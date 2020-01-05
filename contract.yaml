@@ -1,0 +1,47 @@
+question: Seu documento está pronto.
+attachment:
+  - name: services-contract
+    filename: services-contract
+    additional yaml: format.yml
+    valid formats:
+      - rtf to docx
+      - pdf  
+    content: |
+      CONTRATO DE PRESTAÇÃO DE SERVIÇOS
+      =================================
+
+      Pelo presente instrumento particular, as Partes acima qualificadas 
+      no Quadro Resumo resolvem celebrar o presente Contrato de Prestação
+      de Serviços ("Contrato"), que tem por finalidade estabelecer os direitos 
+      e obrigações das Partes na execução contratual, de acordo com a 
+      legislação vigente, mediante as cláusulas e condições adiante 
+      estabelecidas.
+
+      **1. OBJETO**
+
+             1. O presente Contrato tem por objeto a prestação, por parte da 
+             **CONTRATADA** à **CONTRATANTE** , dos Serviços especificados 
+             no item III do Quadro Resumo acima, e atividades correlacionadas. 
+             Para tanto, a **CONTRATADA** obriga-se a fornecer mão de obra 
+             especializada e devidamente habilitada.
+                 1. As demais especificações referentes aos Serviços ora 
+                 contratados estão previstas no(s) anexo(s) ao presente Contrato,
+                 conforme aplicável.
+                 2. A prestação dos Serviços será realizada com equipe própria da 
+                 **CONTRATADA** , alocada nas dependências da **CONTRATANTE**.
+      **2. VIGÊNCIA**
+
+            1. O Contrato vigorará pelo prazo estabelecido no item V do 
+            Quadro Resumo.
+            2. As Partes poderão acordar a prorrogação do prazo 
+            estabelecido acima mediante a celebração de termo aditivo ao
+            presente Contrato.
+      **3. LOCAL DA PRESTAÇÃO DOS SERVIÇOS**
+      
+            1. A execução dos Serviços ocorrerá no local previsto no item VI
+            do Quadro Resumo.
+            2. Caso haja necessidade de atendimento corretivo ou
+            emergencial fora do horário e dos dias previstos acima, as Partes 
+            deverão acordar previamente por escrito as condições para a 
+            realização de tais Serviços emergenciais.
+mandatory: True
